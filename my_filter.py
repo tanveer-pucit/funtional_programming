@@ -14,3 +14,4 @@ if len(heights) > 0:
     from operator import add
     average_height = reduce(add, heights) / len(heights)
 
+# I am changing and updating filter
